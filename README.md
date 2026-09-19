@@ -16,6 +16,16 @@ Every day at **07:00**, the workflow:
 4. Builds a concise morning summary.
 5. Sends the summary automatically through WhatsApp.
 
+## 📸 Screenshots
+
+### n8n workflow
+
+![n8n workflow](screenshots/workflow.png)
+
+### WhatsApp morning briefing
+
+![WhatsApp result](screenshots/whatsapp-result.png)
+
 ## 🧠 Project goal
 
 The goal is not simply to build a weather notification. This project explores an intelligent workflow that:
